@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Sumly",
+    "name_for_model": "Sumly",
+    "description_for_human": "Summarise a text or URL content swiftly.",
+    "description_for_model": "Summarise a text or URL content swiftly.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "http://localhost:3000/openapi.yaml",
+        "is_user_authenticated": false
+    },
+    "logo_url": "PLUGIN_HOSTNAME/logo.png",
+    "contact_email": "mariusz.misiek@gmail.com",
+    "legal_info_url": "https://example.com/legal"
+}
