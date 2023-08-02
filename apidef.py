@@ -11,7 +11,7 @@ app = quart_cors.cors(quart.Quart(__name__), allow_origin="https://chat.openai.c
 HOST_URL = "http://localhost:3000"
 headers = {
             "content-type": "application/x-www-form-urlencoded",
-            "X-RapidAPI-Key": "660828d321msheaa256ed4acca10p15dc08jsn93bbcaf61f64",
+            "X-RapidAPI-Key": ".........................", # put your RapidAPI-Key Here
             "X-RapidAPI-Host": "textanalysis-text-summarization.p.rapidapi.com"
         }
 
